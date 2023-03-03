@@ -14,4 +14,4 @@
 
 ---
 
-<img src="https://giphy.com/embed/yALcFbrKshfoY" width="425" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/movie-cute-yALcFbrKshfoY">via GIPHY</a></p>
+<img src="https://giphy.com/embed/yALcFbrKshfoY" width="425" height="480" frameBorder="0" class="giphy-embed" allowFullScreen><
