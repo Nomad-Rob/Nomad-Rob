@@ -1,11 +1,8 @@
 Hi, I'm Rob Farley ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>I'm Starting my software engineer journey
+<p><em>I'm starting my software engineer journey
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-
-
-![Waka Readme](https://github.com/Nomad-ROb/Nomad-Rob/workflows/Waka%20Readme/badge.svg)
 
 
 ### A little more about me...  
