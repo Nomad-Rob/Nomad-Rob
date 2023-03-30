@@ -13,3 +13,6 @@ Hi, I'm Rob Farley ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giph
 WOrking on this README
 
 <img src="https://media.giphy.com/media/ZIpTnlApULm08DRxsc/giphy.gif" width="140">
+
+
+![Snake animation](https://github.com/Nomad-Rob/Nomad-Rob/blob/output/github-contribution-grid-snake.svg)
