@@ -16,5 +16,3 @@ WOrking on this README
 
 [![Nomad-Rob GitHub stats](https://github-readme-stats.vercel.app/api?username=Nomad-Rob&show_icons=true&theme=radical)](https://github.com/Nomad-Rob/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nomad-Rob&layout=compact&theme=radical)](https://github.com/Nomad-Rob/github-readme-stats)
-
-![Snake animation](https://github.com/Nomad-Rob/Nomad-Rob/blob/output/github-contribution-grid-snake.svg)
