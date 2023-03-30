@@ -14,8 +14,7 @@ WOrking on this README
 
 <img src="https://media.giphy.com/media/ZIpTnlApULm08DRxsc/giphy.gif" width="140">
 
-[![Nomad-Rob GitHub stats](https://github-readme-stats.vercel.app/api?username=Nomad-Rob)](https://github.com/Nomad-Rob/github-readme-stats)
-![Nomad-Rob GitHub stats](https://github-readme-stats.vercel.app/api?username=Nomad-Rob&show_icons=true&theme=radical)
+[![Nomad-Rob GitHub stats](https://github-readme-stats.vercel.app/api?username=Nomad-Rob&show_icons=true&theme=radical)](https://github.com/Nomad-Rob/github-readme-stats)
 
 
 
