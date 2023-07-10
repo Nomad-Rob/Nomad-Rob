@@ -1,4 +1,5 @@
 ![Header](./github-header-image.png)
+
 ### Hi, I'm [Nomad-Rob](https//utkarssh11.github.io/Nomad-Rob-Portfolio-2.0/)
 <p><em>I'm starting my software engineer journey and trying to figure out what spec to choose from. Either AR/VR or Fullstack!
 
@@ -6,11 +7,10 @@
 
 💡 &nbsp; I'm curently a student at Holberton. Doing a career change and loving it! \
 🌱 &nbsp;I'm currently working on **improving my coding skills by building small projects.**\
-✍️ &nbsp;Apart from technical interests, I like flying, traveling, learning, watching movies and games.\
+✍️ &nbsp;Apart from technical interests, I like flying, traveling, learning, watching movies, music, ang games.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions. \
 📫 How to reach me: Through [Linkedin](https://www.linkedin.com/in/robert-farley-a962a1123/) \
 👻 Let me know if I can help out on any projects!
-
 
 <h1 align="center"> Some Projects</h1>
 | Project Name      | Description | 
@@ -41,5 +41,5 @@ Working on this part of README
 [![Nomad-Rob GitHub stats](https://github-readme-stats.vercel.app/api?username=Nomad-Rob&show_icons=true&theme=radical)](https://github.com/Nomad-Rob/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nomad-Rob&layout=compact&theme=radical)](https://github.com/Nomad-Rob/github-readme-stats)
 
-![Snake animation](https://github.com/Nomad-Rob/Nomad-Rob/blob/output/github-contribution-grid-snake.svg)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31wfmdoey2b2vj2xzxiyis23mueq)](https://open.spotify.com/user/31wfmdoey2b2vj2xzxiyis23mueq)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=228B22&size=29&multiline=true&width=700&lines=Thanks+for+stopping+by!)](https://git.io/typing-svg)
