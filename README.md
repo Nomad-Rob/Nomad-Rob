@@ -11,6 +11,7 @@
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions. \
 📫 How to reach me: Through [Linkedin](https://www.linkedin.com/in/robert-farley-a962a1123/) \
 👻 Let me know if I can help out on any projects!
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <h1 align="center"> Some Projects</h1>
 | Project Name      | Description | 
@@ -35,8 +36,6 @@ Working on this part of README
 ![Canva](https://img.shields.io/badge/Canva-%2320C4CB.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 <br/>
 <hr style="border:0.3px solid gray"> </hr>
-
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 [![Nomad-Rob GitHub stats](https://github-readme-stats.vercel.app/api?username=Nomad-Rob&show_icons=true&theme=radical)](https://github.com/Nomad-Rob/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nomad-Rob&layout=compact&theme=radical)](https://github.com/Nomad-Rob/github-readme-stats)
