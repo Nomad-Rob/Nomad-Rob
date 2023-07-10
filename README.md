@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D73A7B&size=29&multiline=true&width=700&lines=Welcome+To+Rob+Farley's+GitHub+Profile)](https://git.io/typing-svg)
-
+![Header](./github-header-image.png)
 ### Hi, I'm [Nomad-Rob](https//utkarssh11.github.io/Nomad-Rob-Portfolio-2.0/)
 <p><em>I'm starting my software engineer journey and trying to figure out what spec to choose from. Either AR/VR or Fullstack!
 
@@ -43,3 +42,4 @@ Working on this part of README
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nomad-Rob&layout=compact&theme=radical)](https://github.com/Nomad-Rob/github-readme-stats)
 
 ![Snake animation](https://github.com/Nomad-Rob/Nomad-Rob/blob/output/github-contribution-grid-snake.svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D73A7B&size=29&multiline=true&width=700&lines=Thanks+for+stopping+by!)](https://git.io/typing-svg)
