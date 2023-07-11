@@ -1,9 +1,17 @@
-![Header](./github-header-image.png)
+<div align="center">
 
-### Hi, I'm [Nomad-Rob](https//utkarssh11.github.io/Nomad-Rob-Portfolio-2.0/)
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">  &nbsp;
+Hi, I'm [Nomad-Rob](https//utkarssh11.github.io/Nomad-Rob-Portfolio-2.0/)  &nbsp;
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
+
 <p><em>I'm starting my software engineer journey and trying to figure out what spec to choose from. Either AR/VR or Fullstack!
 
-### A little about me...  
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<br><br>
+</div>
+
+## A little about me...  
+
 
 💡 &nbsp; I'm curently a student at Holberton. Doing a career change and loving it! \
 🌱 &nbsp;I'm currently working on **improving my coding skills by building small projects.**\
@@ -11,13 +19,17 @@
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions. \
 📫 How to reach me: Through [Linkedin](https://www.linkedin.com/in/robert-farley-a962a1123/) \
 👻 Let me know if I can help out on any projects!
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+</div>
 <h1 align="center"> Some Projects</h1>
-| Project Name      | Description | 
-| :---:        |    :----   |  
-Working on this part of README
 
+## Working on this part of README
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/49abd3ca-b048-4f27-b7e0-ea6a7b172ac3" width="300">
+<br><br>
 
 
 ## Languages and Tools I've learned...Will be more in the future!
@@ -38,8 +50,9 @@ Working on this part of README
 <br/>
 <hr style="border:0.3px solid gray"> </hr>
 
-[![Nomad-Rob GitHub stats](https://github-readme-stats.vercel.app/api?username=Nomad-Rob&show_icons=true&theme=radical)](https://github.com/Nomad-Rob/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nomad-Rob&layout=compact&theme=radical)](https://github.com/Nomad-Rob/github-readme-stats)
-
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31wfmdoey2b2vj2xzxiyis23mueq)](https://open.spotify.com/user/31wfmdoey2b2vj2xzxiyis23mueq)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=228B22&size=29&multiline=true&width=700&lines=Thanks+for+stopping+by!)](https://git.io/typing-svg)
+<div align="center">
+  
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31wfmdoey2b2vj2xzxiyis23mueq)](https://open.spotify.com/user/31wfmdoey2b2vj2xzxiyis23mueq)  &nbsp;
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="500">
+<br><br>
+</div>
