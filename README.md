@@ -13,7 +13,7 @@ Hi, I'm [Nomad-Rob](https//utkarssh11.github.io/Nomad-Rob-Portfolio-2.0/)  &nbsp
 ## A little about me...  
 
 
-💡 &nbsp; I'm curently a student at Holberton. Doing a career change and loving it! \
+💡 &nbsp;I'm curently a student at Holberton. Doing a career change and loving it! \
 🌱 &nbsp;I'm currently working on **improving my coding skills by building small projects.**\
 ✍️ &nbsp;Apart from technical interests, I like flying, traveling, learning, watching movies, music, ang games.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions. \
