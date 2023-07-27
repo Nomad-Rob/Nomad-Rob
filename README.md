@@ -26,7 +26,7 @@ Hi, I'm [Nomad-Rob](https//utkarssh11.github.io/Nomad-Rob-Portfolio-2.0/)  &nbsp
 </div>
 <h1 align="center"> Some Projects</h1>
 
-## Working on this part of README
+## Working on this part of README to add cool projects
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/49abd3ca-b048-4f27-b7e0-ea6a7b172ac3" width="300">
 <br><br>
