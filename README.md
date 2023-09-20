@@ -31,10 +31,6 @@ Hi, I'm [Nomad-Rob](https//utkarssh11.github.io/Nomad-Rob-Portfolio-2.0/)  &nbsp
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/49abd3ca-b048-4f27-b7e0-ea6a7b172ac3" width="300">
 <br><br>
 
-
-## Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nomad-Rob&layout=donut)](https://github.com/Nomad-Rob/github-readme-stats)
-
 <br/>
 <hr style="border:0.3px solid gray"> </hr>
 
