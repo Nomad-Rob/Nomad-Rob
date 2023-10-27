@@ -18,20 +18,14 @@ Hi, I'm [Nomad-Rob](https//utkarssh11.github.io/Nomad-Rob-Portfolio-2.0/)  &nbsp
 ✍️ &nbsp;Apart from technical interests, I like flying, traveling, learning, watching movies, music, and games.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions. \
 📫 How to reach me: Through [Linkedin](https://www.linkedin.com/in/robert-farley-a962a1123/) \
-👻 Let me know if I can help out on any projects!
+👻 Let me know if I can help out on any projects! \
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/49abd3ca-b048-4f27-b7e0-ea6a7b172ac3" width="300">
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
 </div>
-<h1 align="center"> Some Projects</h1>
-
-## Working on this part of README to add cool projects
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/49abd3ca-b048-4f27-b7e0-ea6a7b172ac3" width="300">
-<br><br>
-
-<br/>
 <hr style="border:0.3px solid gray"> </hr>
 
 <div align="center">
