@@ -20,10 +20,13 @@ Hi, I'm [Nomad-Rob](https//utkarssh11.github.io/Nomad-Rob-Portfolio-2.0/)  &nbsp
 📫 How to reach me: Through [Linkedin](https://www.linkedin.com/in/robert-farley-a962a1123/) \
 👻 Let me know if I can help out on any projects! \
 
-<div align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/49abd3ca-b048-4f27-b7e0-ea6a7b172ac3" width="300">
-
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31wfmdoey2b2vj2xzxiyis23mueq)](https://open.spotify.com/user/31wfmdoey2b2vj2xzxiyis23mueq)  &nbsp;
+<div class="images">
+  <div align="left">
+    
+  [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31wfmdoey2b2vj2xzxiyis23mueq)](https://open.spotify.com/user/31wfmdoey2b2vj2xzxiyis23mueq)
+  <div align="right">
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/49abd3ca-b048-4f27-b7e0-ea6a7b172ac3" width="300">
+  </div>
 </div>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
