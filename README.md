@@ -7,6 +7,9 @@ Hi, I'm [Nomad-Rob](https//utkarssh11.github.io/Nomad-Rob-Portfolio-2.0/)  &nbsp
 <p><em>I'm starting my software engineer journey and trying to figure if I want to focus on FrontEnd or BackEnd!
 
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <div align="center"> 
+  Check me out ------>>> https://nomadrob.com
+  </div>
 <br><br>
 </div>
 
