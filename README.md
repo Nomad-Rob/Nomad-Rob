@@ -13,7 +13,7 @@ Hi, I'm [Nomad-Rob](https//utkarssh11.github.io/Nomad-Rob-Portfolio-2.0/)  &nbsp
 <br><br>
 </div>
 
-## A little about me...  
+## About me 
 
 
 💡 &nbsp;I'm curently a student at Holberton. Doing a career change and loving it! \
@@ -24,6 +24,10 @@ Hi, I'm [Nomad-Rob](https//utkarssh11.github.io/Nomad-Rob-Portfolio-2.0/)  &nbsp
 👻 Let me know if I can help out on any projects! \
 
 ## Some of my toolset:
+- Frontend: HTML, CSS, JavaScript, React, Bootstrap, SAAS, Tailwind
+- Backend: Python, Flask, Node.js,
+- Database: MySQL, MongoDB
+- Other: Docker, Git, Github, Postman, Figma
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
