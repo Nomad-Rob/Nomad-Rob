@@ -24,7 +24,7 @@ Hi, I'm [Nomad-Rob](https//utkarssh11.github.io/Nomad-Rob-Portfolio-2.0/)  &nbsp
 👻 Let me know if I can help out on any projects! \
 
 ## Some of my toolset:
-- Frontend: HTML, CSS, JavaScript, React, Bootstrap, SAAS, Tailwind
+- Frontend: HTML, CSS, JavaScript, React, Bootstrap, SAAS,
 - Backend: Python, Flask, Node.js,
 - Database: MySQL, MongoDB
 - Other: Docker, Git, Github, Postman, Figma
@@ -76,9 +76,6 @@ Hi, I'm [Nomad-Rob](https//utkarssh11.github.io/Nomad-Rob-Portfolio-2.0/)  &nbsp
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-  <a href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
   <a href="https://www.pocoo_flask.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
