@@ -20,7 +20,7 @@ Hi, I'm [Nomad-Rob](https//utkarssh11.github.io/Nomad-Rob-Portfolio-2.0/)  &nbsp
 🌱 &nbsp;I'm currently working on **improving my coding skills by building small projects.**\
 ✍️ &nbsp;Apart from technical interests, I like flying, traveling, learning, watching movies, music, and games.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions. \
-📫 How to reach me: Through [Linkedin](https://www.linkedin.com/in/robert-farley-a962a1123/) \
+📫 How to reach me: Through [Linkedin](https://www.linkedin.com/in/robert-farley-a962a1123/) or [Personal Website](http://nomadrob.com) \
 👻 Let me know if I can help out on any projects! \
 
 ## Some of my toolset:
