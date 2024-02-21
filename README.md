@@ -87,7 +87,7 @@ Hi, I'm [Nomad-Rob](https//utkarssh11.github.io/Nomad-Rob-Portfolio-2.0/)  &nbsp
   <h1>
     
   [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31wfmdoey2b2vj2xzxiyis23mueq)](https://open.spotify.com/user/31wfmdoey2b2vj2xzxiyis23mueq)
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nomad-Rob&show_icons=true&locale=en&layout=compact" alt="Nomad-Rob" /></h1>
+  <!---  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nomad-Rob&show_icons=true&locale=en&layout=compact" alt="Nomad-Rob" /></h1> --->
 </div>
 
 <div align="center">
