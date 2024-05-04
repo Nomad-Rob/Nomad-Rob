@@ -17,16 +17,16 @@ Hi, I'm [Nomad-Rob](https//utkarssh11.github.io/Nomad-Rob-Portfolio-2.0/)  &nbsp
 
 
 💡 &nbsp;I'm curently a student at Atlas School in Tulsa. Doing a career change and loving it! \
-🌱 &nbsp;I'm currently working on **improving my coding skills by building small projects.**\
+🌱 &nbsp;I'm currently working on a couple side projects one about Wind in Simulation and Another about tracking Airplanes near the user. \
 ✍️ &nbsp;Apart from technical interests, I like flying, traveling, learning, watching movies, music, and games.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions. \
 📫 How to reach me: Through [Linkedin](https://www.linkedin.com/in/robert-farley-a962a1123/) or [Personal Website](http://nomadrob.com) \
 👻 Let me know if I can help out on any projects! \
 
 ## Some of my toolset:
-- Frontend: HTML, CSS, JavaScript, React, Bootstrap, SAAS,
+- Frontend: HTML, CSS, JavaScript, React, Bootstrap,
 - Backend: Python, Flask, Node.js,
-- Database: MySQL, MongoDB
+- Database: MySQL, MongoDB, Firestore, Postgres
 - Other: Docker, Git, Github, Postman, Figma
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
