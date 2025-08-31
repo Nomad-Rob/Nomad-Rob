@@ -17,9 +17,3 @@ Hi, I'm Nomad-Rob
   [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31wfmdoey2b2vj2xzxiyis23mueq)](https://open.spotify.com/user/31wfmdoey2b2vj2xzxiyis23mueq)
   <!---  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nomad-Rob&show_icons=true&locale=en&layout=compact" alt="Nomad-Rob" /></h1> --->
 </div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-</div>
